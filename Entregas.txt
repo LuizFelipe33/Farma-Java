@@ -1,0 +1,5 @@
+Cliente , Produto , CEP , Data
+Flavio Vicenta_Dipirona_68484-664_07/02/2021
+gyo_Dipirona_64658-468_35/14/3513
+felipe_Dipirona_48468-468_12/02/2021
+eu_qualquercoisa_55655-455_12/02/2021

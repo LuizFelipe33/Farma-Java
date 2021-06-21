@@ -1,0 +1,8 @@
+Produto , Fórmula , Preço , Quantidade
+Advil_Ibuprofeno_R$ 003,00_2
+Amoxicilina_C16H19N3O5S_R$ 010,00_2
+Buclina_Dicloridrato de buclizina_R$ 020,00_1
+Dipirona_Metamizol _R$ 006,00_1
+Flavonid_diosmina + hesperidina_R$170,00_1
+eu_eu_R$ 200,00_1
+qualquercoisa_kdjkjdk_R$ 010,00_2
